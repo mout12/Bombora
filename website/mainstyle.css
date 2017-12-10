@@ -6,7 +6,7 @@ body
    
 table
 {
-    margin: auto;
+    margin: 20px auto;
     background: white;
     min-width: 50%;
     border-radius: 10px;
@@ -21,6 +21,11 @@ a:link, a:visited
 a:hover, a:active
 {    
     color:#8677B2;
+}
+
+ul
+{
+    list-style-type: none;
 }
 
 
